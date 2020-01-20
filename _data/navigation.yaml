@@ -1,0 +1,12 @@
+- name: Connect
+  link: /#connect
+  class: 
+- name: Gather
+  link: /#gather
+  class: 
+- name: Host
+  link: /#business
+  class: 
+# - name: Press
+#   link: /#press
+#   class: hideOnDesktop
